@@ -1,1 +1,1 @@
-### DSA Daily 
+### DSA Daily Practice
